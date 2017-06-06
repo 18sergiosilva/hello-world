@@ -22,6 +22,10 @@ public class interfaz extends javax.swing.JFrame {
     Double tres3;
     Boolean a,e,y,o,u=false;
     
+    int estecambio = 0;
+    
+    
+    
     public interfaz() {
         initComponents();
     }
